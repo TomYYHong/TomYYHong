@@ -22,7 +22,7 @@ An experienced, collaborative, Software Developer with expertise in Java, Spring
 <details>
   <summary><b>🛠️&nbsp;&nbsp;Languages&nbsp;and&nbsp;Tools</b></summary>
   <br/>
-  <p align="left"><img src="https://github.com/TomYYHong/TomYYHong/assets/56811243/9f104c74-a59c-4f4e-bd5c-76422cd837b2" alt="spring-boot" width="60" height="40"/> 
+  <p align="left"><img src="https://github.com/TomYYHong/TomYYHong/assets/56811243/9f104c74-a59c-4f4e-bd5c-76422cd837b2" alt="spring-boot" width="50" height="40"/> 
   <img src="https://github.com/TomYYHong/TomYYHong/assets/56811243/e7fb47da-2430-47a1-8c3b-fd539bc348cc)" alt="java" width="40" height="40"/> 
 
 ![pngaaa com-2459552](https://github.com/TomYYHong/TomYYHong/assets/56811243/9f104c74-a59c-4f4e-bd5c-76422cd837b2)
