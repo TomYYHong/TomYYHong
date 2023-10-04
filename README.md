@@ -23,6 +23,8 @@ An experienced, collaborative, Software Developer with expertise in Java, Spring
   <summary><b>🛠️&nbsp;&nbsp;Languages&nbsp;and&nbsp;Tools</b></summary>
   <br/>
   <p align="left"><img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> 
+  <p align="left"><img src="https://github.com/TomYYHong/TomYYHong/assets/56811243/e7fb47da-2430-47a1-8c3b-fd539bc348cc)" alt="angular" width="40" height="40"/> 
+
 
 </details>
 
